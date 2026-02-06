@@ -1,4 +1,4 @@
-1. docker volume <volume-name> -> Create docker volumes
+1. docker volume create <volume-name> -> Create docker volumes
   volumes will be store at host level, not at container level.
 2. docker volume ls
 3. Mount the volume to the container
