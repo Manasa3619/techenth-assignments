@@ -39,7 +39,7 @@
    given pat and successfully loggedin
 14.before moving to dockerhub need to tag to the current image, followed the same using below commands
    docker tag frontendappv1 username/frontendappv1:1
-   docker push frontendappv1 username/frontendappv1:1
+   docker push username/frontendappv1:1
  15.stopped and deleted tags, images and conatiners
 
 
